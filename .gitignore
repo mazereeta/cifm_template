@@ -1,0 +1,4 @@
+*.jar
+*~
+bin/
+!lib.jar
